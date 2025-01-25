@@ -1,0 +1,8 @@
+{
+              "name": "barnywarp-charathers-gallery",
+              "description": "This is the BarnyWarp Charathers Gallery.",
+              "version": "2",
+              "dependencies": {
+              "package-name": "package"
+              }
+}
